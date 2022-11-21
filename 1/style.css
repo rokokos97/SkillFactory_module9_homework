@@ -1,0 +1,14 @@
+.header {
+    width: 75%;
+    box-shadow: 20px 20px 20px #999999;
+    text-align:center;
+    margin: 20px auto;
+}
+.tack_conditions {
+    font-family: ".SF NS Mono", sans-serif;
+    font-weight: 200;
+    font-size: 1rem;
+    line-height: 2;
+    text-align: center;
+
+}
